@@ -23,10 +23,8 @@ html, body {
 
 header{
     background-color: black;
- 
     text-align: center;
    
- 
 }
  
 header h1 {
@@ -38,9 +36,7 @@ header h1 {
 }
 
 header p {
-   
     color: white;
-  
     padding-bottom:50px;
     font-size: 1.1em;
     font-family:var(--font01);
@@ -53,6 +49,7 @@ header p {
 
 a:hover {
     text-decoration: underline;
+    color: rgb(17, 17, 100);
 
 }
 
@@ -114,7 +111,7 @@ section#img02 {
 footer{
 
     background-color: black;
-    color: rgba(255, 255, 255, 0.568);
+    color: #ffffff;
     text-align: center;
     font-family: var(--font01);
     font-weight: bold;
